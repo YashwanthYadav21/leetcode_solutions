@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/YashwanthYadav21/leetcode_solutions/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/YashwanthYadav21/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/YashwanthYadav21/leetcode_solutions/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
@@ -27,5 +28,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/YashwanthYadav21/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/YashwanthYadav21/leetcode_solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
